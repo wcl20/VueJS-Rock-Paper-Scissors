@@ -1,24 +1,13 @@
-# vuejs-rps
+# VueJS Rock Paper Scissors
+Simple Rock Paper Scissors web app using VueJS.
 
-## Project setup
-```
+## Setup
+Install yarn packages
+```bash
 yarn install
 ```
-
-### Compiles and hot-reloads for development
-```
+Start Vue App
+```bash
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The webpage should be running on [http://localhost:8080](http://localhost:8080).
